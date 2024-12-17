@@ -1357,6 +1357,5 @@ namespace LiveVisualizer
 			numericUpDown_idSample.Value = AuH.Samples.Count;
 		}
 
-
 	}
 }
